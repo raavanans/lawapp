@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/laws"
+        android:title="Basic Law"
+        android:icon="@drawable/laww"
+        />
+
+    <item android:id="@+id/child"
+        android:title="Child"
+        android:icon="@drawable/childlaw"
+        />
+
+    <item android:id="@+id/women"
+        android:title="Women"
+        android:icon="@drawable/female"
+        />
+
+
+</menu>

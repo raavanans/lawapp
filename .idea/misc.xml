@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/drawable/button.xml" value="0.149" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/drawable/casebtn.xml" value="0.1555" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/drawable/icontint.xml" value="0.149" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/drawable/shape.xml" value="0.149" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/activity_activitythree.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/activity_activitytwo.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/activity_casestudyactivity.xml" value="0.25" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/activity_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/fragment_child.xml" value="0.2359375" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/fragment_favouritefragment.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/fragment_homefragment.xml" value="0.25" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/fragment_lawfragment.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/fragment_popularfragment.xml" value="0.2359375" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/fragment_recentfragment.xml" value="0.24954710144927536" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/fragment_searchfragment.xml" value="0.25" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/fragment_settingsfragment.xml" value="0.1539855072463768" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/fragment_womenfragment.xml" value="0.2359375" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/layout/shape.xml" value="0.25" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/menu/btm_nav2.xml" value="0.25" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/menu/btm_nav_main.xml" value="0.25" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/menu/btm_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/menu/btm_nav_menu2.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/Ragul/actapp/app/src/main/res/menu/btmmenu2.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

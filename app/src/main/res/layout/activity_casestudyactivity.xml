@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Casestudyactivity">
+
+
+   <com.github.barteksc.pdfviewer.PDFView
+       android:id="@+id/pdfview"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+
+
+       >
+
+
+      <android.widget.Button
+          android:id="@+id/downloadbtn"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+
+          android:layout_alignParentEnd="true"
+          android:layout_alignParentBottom="true"
+
+          android:background="@drawable/button"
+          android:text="Download"
+
+          android:textColor="#090909"
+          android:textSize="15dp"
+          android:textStyle="bold" />
+
+
+   </com.github.barteksc.pdfviewer.PDFView>
+
+
+
+
+
+
+</RelativeLayout>
